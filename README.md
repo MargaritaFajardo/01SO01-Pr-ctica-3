@@ -197,3 +197,7 @@ echo "Archivo guardado como $nombre_archivo"
 
 # Referencias
 [1] Estructura CASE. (s/f). Desarrolloweb.com. Recuperado el 4 de enero de 2025, de https://desarrolloweb.com/articulos/estructura-case-vbscript.html
+
+[2] Comando awk de Linux: analiza archivos. (2023, agosto 9). IONOS Digital Guide; IONOS. https://www.ionos.com/es-us/digitalguide/servidores/configuracion/comando-awk-de-linux/?srsltid=AfmBOoodH_GXqhicHZ6uG2NDLvnLNi_S9XsIERnu9wPFeDO9o6ElqiMs
+
+[3] Filtering text using awk. (2019, septiembre 26). Catalyst2. https://www.catalyst2.com/knowledgebase/server-management/filtering-text-using-awk/
