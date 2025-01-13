@@ -127,11 +127,13 @@ do
   esac
 done
 ```
+![Captura de pantalla 2025-01-12 225900](https://github.com/user-attachments/assets/67e77b9e-0d0b-4382-951e-36a4ac7fb40b)
 
 ## Archivo Logs
 ### Script 1
 - Evidencia del archivo logs subido al servidor.
 
+![Archivo subido en MobaXterm](https://github.com/user-attachments/assets/9a659c2b-ca51-4f95-9f1f-d17be22f3d9a)
 
 ### Script 2
 Para poder ver los nombres de los usuarios sin comillas se utiliza el comando: `sed '/"//g'`
@@ -179,6 +181,7 @@ echo "Archivo guardado como $nombre_archivo"
 
 - Para el envío del archivo fuera del servidor y poder abrirlo en Windows mediante MobaXterm.
 
+![Captura de pantalla 2025-01-12 221147](https://github.com/user-attachments/assets/d42528c7-eb0a-48da-8e53-dc8266037e1b)
 
 # Conclusiones
 - Se llegó a la conclusión de que AWK es una herramienta muy eficiente en el procesamiento y el análisis en los archivos de texto.
